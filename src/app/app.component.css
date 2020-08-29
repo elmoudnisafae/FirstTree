@@ -1,0 +1,54 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Montserrat:400,500&display=swap');*/
+
+/*body {*/
+/*  position: relative;*/
+/*  font-family: 'Montserrat', 'sans-serif';*/
+/*}*/
+/*!*section right*!*/
+/*ul.nav-pills {*/
+/*  top: 120px;*/
+/*  !*position: fixed;*!*/
+/*}*/
+/*!*section content*!*/
+/*div.col-sm-9 div {*/
+/*  height: 250px;*/
+/*  font-size: 28px;*/
+/*}*/
+
+/*#section1 {color: #fff; background-color: white ;}*/
+/*#section2 {color: #fff; background-color: darkcyan ;}*/
+
+/*#section21 {color: #fff; background-color: white;}*/
+/*#section22 {color: #fff; background-color: white;}*/
+
+/*@media screen and (max-width: 810px) {*/
+/*  #section1, #section21, #section22  {*/
+/*    margin-left: 50px;*/
+/*  }*/
+/*}*/
+/********************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.example-tree-invisible{
+  display: none;
+
+}
+.example-tree ul{
+
+  margin-top: 0px;
+  margin-bottom: 0;
+  list-style-type: none;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.example-tree li{
+
+  margin-top: 30px;
+  margin-bottom: 0;
+  list-style-type: none;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+
+
+
